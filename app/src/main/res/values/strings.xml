@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P77S212022</string>
+    <string name="Escuela">Tecnologico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="Nombrec">Joaquin Cesar Perez Marcos</string>
+    <string name="Grupo">7S21</string>
+    <string name="Envio">Envio</string>
+    <string name="btn1">Nativo</string>
+    <string name="btn2">Objeto</string>
+    <string name="lblTextVie">Nativo</string>
+    <string name="copyright">Copyright \u00a9 2022, Joaquin Perez Practica 7</string>
+    <string name="regresa">Regresar</string>
+    <string name="envia">Enviar Datos</string>
+
+</resources>
